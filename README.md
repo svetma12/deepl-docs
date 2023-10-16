@@ -1,2 +1,1 @@
-# deepl-docs
-Google docs DeepL translator
+# DeepL translator for Google Docs
